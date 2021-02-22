@@ -9,4 +9,4 @@
 ### 1. [Vai nelle Issues.](https://github.com/CoralMC-It/BugTracker/issues/)
 ### 2. [Controlla che non ci sia già stato segnalato il tuo problema!](https://github.com/CoralMC-It/BugTracker/issues/)
 
-#NOTA BENE: Questa repository è fatta per segnalare dei bug all'interno del Network non a livello gestionale, staff, tempi di ban, youtuber etc.. 
+# NOTA BENE: Questa repository è fatta per segnalare dei bug all'interno del Network non a livello gestionale, staff, tempi di ban, youtuber etc.. 
